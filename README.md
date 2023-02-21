@@ -8,6 +8,8 @@ This website template is build for projects based on webpack, typescript and scs
 - Auto-deploy on every push to github pages (if not needed, delete `.github/workflows/pages.yml` file)
 - Configured eslint and prettier
 
+Do not forget to enable github pages in the settings of your repository.
+
 ## Commands
 
 ### Installation
